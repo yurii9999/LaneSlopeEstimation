@@ -1,0 +1,2 @@
+Straight road with width changing on l = 20 meters from 3.2m to 4.8m
+formula: std::min(3.2 + (l - 20) * 0.1, 4.8);

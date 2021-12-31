@@ -1,0 +1,5 @@
+Strainght road with width = 3.2 meters and longitudinal slope = 6 degrees (~10%)
+camera position: z = 0, 5, 10 meters, y = 1.2 meters, x = 0
+camera parameters: f = 600, cx = 320, cy = 240
+
+Note: Slope change is not sharp, it changes in 2 meters from 0 to 6 (deg) using sin()*6 (i.e. 6sin(0) = 0, 6sin(pi/2) = 6)
